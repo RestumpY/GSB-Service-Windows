@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nassim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nassim\\.nuget\\packages"
+    ]
+  }
+}
