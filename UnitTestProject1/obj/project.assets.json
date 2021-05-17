@@ -5737,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yanni\\Desktop\\C#\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "D:\\wamp64\\www\\GSB Service Windows\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "C:\\Users\\yanni\\Desktop\\C#\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectPath": "D:\\wamp64\\www\\GSB Service Windows\\UnitTestProject1\\UnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\yanni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yanni\\Desktop\\C#\\UnitTestProject1\\obj\\",
+      "outputPath": "D:\\wamp64\\www\\GSB Service Windows\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yanni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5758,8 +5758,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\yanni\\Desktop\\C#\\PPEGSBFINAL\\PPEGSBFINAL.csproj": {
-              "projectPath": "C:\\Users\\yanni\\Desktop\\C#\\PPEGSBFINAL\\PPEGSBFINAL.csproj"
+            "D:\\wamp64\\www\\GSB Service Windows\\PPEGSBFINAL\\PPEGSBFINAL.csproj": {
+              "projectPath": "D:\\wamp64\\www\\GSB Service Windows\\PPEGSBFINAL\\PPEGSBFINAL.csproj"
             }
           }
         }
